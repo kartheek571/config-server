@@ -1,2 +1,2 @@
 app:
-  name: hello world  refresh scope from dev
+  name: hello world default to  normal for dev profile 
